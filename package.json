@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/MarkRyuo/portfoliobyjhonmark/issues"
   },
-  "homepage": "https://github.com/MarkRyuo/portfoliobyjhonmark#readme"
+  "homepage": "https://github.com/MarkRyuo/portfoliobyjhonmark#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  }
 }
